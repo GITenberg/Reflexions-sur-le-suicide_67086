@@ -1,0 +1,26 @@
+_repo: Reflexions-sur-le-suicide_67086
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Staël-Holstein, Germaine de
+    gutenberg_agent_id: '54031'
+    url: http://www.gutenberg.org/2009/agents/54031
+description: ''
+gutenberg_issued: '2022-01-02'
+identifiers:
+  gutenberg: '67086'
+language: fr
+pgterms:marc904: https://gallica.bnf.fr/ark:/12148/bpt6k10568161
+pgterms:marc905: 20211230133016stalholste
+pgterms:marc906: '1813'
+pgterms:marc907: DE
+production_note: René Galluvot (This file was produced from images generously made
+  available by the Bibliothèque nationale de France (BnF/Gallica))
+publication_note: Germany :Realschulbuchhandlung,1813.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Réflexions sur le suicide
+url: http://www.gutenberg.org/ebooks/67086
